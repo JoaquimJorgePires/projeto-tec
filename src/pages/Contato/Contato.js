@@ -68,3 +68,4 @@ export default function Contato({ navigation }) {
     </ScrollView>
   );
 }
+

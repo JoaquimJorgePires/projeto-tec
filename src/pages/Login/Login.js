@@ -10,7 +10,7 @@ export default function Login({ navigation }) {
   const [errorMessage, setErrorMessage] = useState('');
 
   const handleLogin = () => {
-    setErrorMessage(''); // Limpa erros anteriores
+    setErrorMessage(''); 
 
     if (!username.trim() || !password.trim()) {
       setErrorMessage('Por favor, preencha todos os campos.');
@@ -43,7 +43,6 @@ export default function Login({ navigation }) {
           secureTextEntry={true} 
         />
 
-        {/* Mensagem de alerta visual direto no ecrã (substitui o popup com total fiabilidade) */}
         {errorMessage ? (
           <View style={{ marginTop: 10, padding: 8, backgroundColor: '#FEE2E2', borderRadius: 6 }}>
             <Text style={{ color: '#991B1B', fontSize: 13, textAlign: 'center', fontWeight: '600' }}>
