@@ -63,7 +63,7 @@ Resultado: A aplicação atende integralmente ao requisito de notificar o usuár
 --Como Executar o Projeto--
 
 Clonar o repositório:
-git clone [https://github.com/JoaquimJorgePires/meu-projeto.git](https://github.com/JoaquimJorgePires/meu-projeto.git)
+git clone [https://github.com/JoaquimJorgePires/projeto-tec](https://github.com/JoaquimJorgePires/projeto-tec)
 cd meu-projeto
 
 Instalar as dependências:
