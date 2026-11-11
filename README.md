@@ -14,6 +14,21 @@ Senha: 123456
 
 ---
 
+
+
+
+<img width="766" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 02" src="https://github.com/user-attachments/assets/8700363d-0386-4e3f-917b-12dad4b1c773" />
+<img width="765" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03" src="https://github.com/user-attachments/assets/d2b97455-cafc-4fa6-b10f-25bb16322b95" />
+<img width="763" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (1)" src="https://github.com/user-attachments/assets/0889cca9-7adb-4a8c-9505-b635c775175d" />
+<img width="764" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (2)" src="https://github.com/user-attachments/assets/25dde5f8-aa33-408d-96d2-35c931069149" />
+<img width="765" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (3)" src="https://github.com/user-attachments/assets/7103593b-a7ea-4a24-98d2-d0e931fdb9a4" />
+<img width="768" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (4)" src="https://github.com/user-attachments/assets/d916dfe8-022a-4d3d-adb5-9eae99db506a" />
+<img width="764" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04" src="https://github.com/user-attachments/assets/3f5ad00c-acc3-4920-9277-6fd8f62b2233" />
+<img width="764" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (1)" src="https://github.com/user-attachments/assets/114d3149-b626-4e1b-a537-1f4ebd167085" />
+<img width="765" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (2)" src="https://github.com/user-attachments/assets/bea7d29a-bafe-4f3f-a573-90d0b4d5025a" />
+<img width="763" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (3)" src="https://github.com/user-attachments/assets/479a9600-f4ac-4a36-b0f6-086259f6978f" />
+<img width="763" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (4)" src="https://github.com/user-attachments/assets/11dab161-88a2-4e2d-8199-3a6f25b4f759" />
+
 --Estrutura do Projeto--
 
 ```text
@@ -75,18 +90,3 @@ npx expo start
 Modos de Visualização:
 Pressione w no terminal para abrir e testar no navegador web;
 Escaneie o QR Code no terminal utilizando o aplicativo Expo Go no celular.
-
-
-
-
-<img width="766" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 02" src="https://github.com/user-attachments/assets/8700363d-0386-4e3f-917b-12dad4b1c773" />
-<img width="765" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03" src="https://github.com/user-attachments/assets/d2b97455-cafc-4fa6-b10f-25bb16322b95" />
-<img width="763" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (1)" src="https://github.com/user-attachments/assets/0889cca9-7adb-4a8c-9505-b635c775175d" />
-<img width="764" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (2)" src="https://github.com/user-attachments/assets/25dde5f8-aa33-408d-96d2-35c931069149" />
-<img width="765" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (3)" src="https://github.com/user-attachments/assets/7103593b-a7ea-4a24-98d2-d0e931fdb9a4" />
-<img width="768" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 03 (4)" src="https://github.com/user-attachments/assets/d916dfe8-022a-4d3d-adb5-9eae99db506a" />
-<img width="764" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04" src="https://github.com/user-attachments/assets/3f5ad00c-acc3-4920-9277-6fd8f62b2233" />
-<img width="764" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (1)" src="https://github.com/user-attachments/assets/114d3149-b626-4e1b-a537-1f4ebd167085" />
-<img width="765" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (2)" src="https://github.com/user-attachments/assets/bea7d29a-bafe-4f3f-a573-90d0b4d5025a" />
-<img width="763" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (3)" src="https://github.com/user-attachments/assets/479a9600-f4ac-4a36-b0f6-086259f6978f" />
-<img width="763" height="1600" alt="WhatsApp Image 2026-11-11 at 14 10 04 (4)" src="https://github.com/user-attachments/assets/11dab161-88a2-4e2d-8199-3a6f25b4f759" />
